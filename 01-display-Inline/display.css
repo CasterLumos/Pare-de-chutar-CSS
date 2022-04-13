@@ -1,0 +1,20 @@
+.example{
+    color: #fff;
+    text-align: center;
+}
+/* A propriedade inline não permite definir altura e largura.
+O elemento quando está em inline ganha o comportamento de texto */
+.example-item{
+    /* width: 33.33%;
+    height: 150px; */
+    display: inline;
+}
+.example-item_first{
+    background-color: aqua;
+}
+.example-item_second{
+    background-color: rgb(150, 211, 9);
+}
+.example-item_third{
+    background-color: rgb(224, 13, 112);
+}

@@ -1,0 +1,24 @@
+.elementExample{
+    font-size: 20px;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.elementExample_first{
+    background-color: blue;
+    float: left;
+}
+.elementExample_last{
+    background-color: rgb(179, 43, 111);
+    float: right;
+}
+article{
+    background-color: red;
+    overflow: hidden;
+}
+p{
+    clear: both;
+}

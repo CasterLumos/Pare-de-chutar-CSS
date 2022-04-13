@@ -1,0 +1,21 @@
+.example{
+    color: #fff;
+    text-align: center;
+}
+
+.example-item{
+    width: 33.33%; /*Definida a largura*/
+    height: 150px; 
+    display: block;
+}
+.example-item_first{
+    background-color: aqua;
+}
+.example-item_second{
+    background-color: rgb(150, 211, 9);
+    margin-left: auto;/*  ele completa no lado esquerdo do objeto com espaços, mas é preciso definir uma largura */
+}
+.example-item_third{
+    background-color: rgb(224, 13, 112);
+    margin: auto; /* ele completa no lado esquerdo e direito do objeto com espaços, mas é preciso definir uma largura */
+}
